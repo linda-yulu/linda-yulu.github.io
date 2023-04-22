@@ -5,3 +5,4 @@ Linda's personal website
 - [Home](https://linda-yulu.github.io/)
 - [About](https://linda-yulu.github.io/about.md)
 - [Blog Entry 1](https://linda-yulu.github.io/blog/blog1.md)
+- [Blog Entry 2](https://linda-yulu.github.io/blog/blog2.md)
